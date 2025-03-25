@@ -24,7 +24,7 @@ It is simple Python program that render a image you choose and save it using Ope
 
 <table>
   <tr>
-    <td><img src="cartooned_dog" width="300"></td>
+    <td><img src="cartooned_dog.png" width="300"></td>
   </tr>
 </table>
 
@@ -124,7 +124,7 @@ It is simple Python program that render a image you choose and save it using Ope
   </tr>
 
   <tr>
-    <td><img src="moutain.jpg" width="300"></td>
+    <td><img src="mountain.jpg" width="300"></td>
     <td><img src="cartooned_moutain.png" width="300"></td>
   </tr>
   <tr>
