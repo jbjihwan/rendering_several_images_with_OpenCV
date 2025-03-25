@@ -6,15 +6,27 @@ It is simple Python program that render a image you choose and save it using Ope
 
 - Load a image from directory
 
-![Rendering Several Images To Cartoon Screenshot](click_button_Load_a_image_from_Directory.png)
+<table>
+  <tr>
+    <td><img src="click_button_Load_a_image_from_Directory.png" width="300"></td>
+  </tr>
+</table>
 
 - Origine Image : Load the origine image
-
-![Realtime_Outside_Weather Tool Screenshot](dog.png)
+  
+<table>
+  <tr>
+    <td><img src="dog.jpg" width="300"></td>
+  </tr>
+</table>
 
 - Cartoon Style : Render the origine image to cartoon style 
 
-![Realtime_Outside_Weather Tool Screenshot](cartooned_dog.png)
+<table>
+  <tr>
+    <td><img src="cartooned_dog" width="300"></td>
+  </tr>
+</table>
 
 - Save a image : Save a displayed image
 
@@ -22,41 +34,114 @@ It is simple Python program that render a image you choose and save it using Ope
 
 
 ## Good Results
-- Dog, Indian, Texture, Figure, Figure_2 are good results. Because they seem like pictures. And It brings out the origine features (color, divisions) well.
+- Dog, Indian, Texture, Figure, Figure_2 are good results. Because they seem like pictures. And It brings out the original features (color, divisions) well.
 
-![Realtime_Outside_Weather Tool Screenshot](dog.jpg) ![Realtime_Outside_Weather Tool Screenshot](cartooned_dog.png)
-[Dog] [Cartoon Style Dog]
+<table>
+  <tr>
+    <td><img src="dog.jpg" width="300"></td>
+    <td><img src="cartooned_dog.png" width="300"></td>
+  </tr>
+  <tr>
+    <td align="center">Dog</td>
+    <td align="center">Cartoon Style Dog</td>
+  </tr>
+</table>
 
-![Realtime_Outside_Weather Tool Screenshot](indian.jpg) ![Realtime_Outside_Weather Tool Screenshot](cartooned_indian.png)
-[Indian] [Cartoon Style Indian]
+<table>
+  <tr>
+    <td><img src="indian.jpg" width="300"></td>
+    <td><img src="cartooned_indian.png" width="300"></td>
+  </tr>
+  <tr>
+    <td align="center">Indian</td>
+    <td align="center">Cartoon Style Indian</td>
+  </tr>
+</table>
 
-![Realtime_Outside_Weather Tool Screenshot](texture.jpg) ![Realtime_Outside_Weather Tool Screenshot](cartooned_texture.png)
-[Texture] [Cartoon Style Texture]
+<table>
+  <tr>
+    <td><img src="texture.jpg" width="300"></td>
+    <td><img src="cartooned_texture.png" width="300"></td>
+  </tr>
+  <tr>
+    <td align="center">Texture</td>
+    <td align="center">Cartoon Style Texture</td>
+  </tr>
+</table>
 
-![Realtime_Outside_Weather Tool Screenshot](Figure.jpg) ![Realtime_Outside_Weather Tool Screenshot](cartooned_Figure.png)
-[Texture] [Cartoon Style Texture]
+<table>
+  <tr>
+    <td><img src="Figure.jpg" width="300"></td>
+    <td><img src="cartooned_Figure.png" width="300"></td>
+  </tr>
+  <tr>
+    <td align="center">Figure</td>
+    <td align="center">Cartoon Style Figure</td>
+  </tr>
+</table>
 
-![Realtime_Outside_Weather Tool Screenshot](Figure_2.jpg) ![Realtime_Outside_Weather Tool Screenshot](cartooned_Figure_2.png)
-[Texture] [Cartoon Style Texture]
+<table>
+  <tr>
+    <td><img src="Figure_2.jpg" width="300"></td>
+    <td><img src="cartooned_Figure_2.png" width="300"></td>
+  </tr>
+  <tr>
+    <td align="center">Figure_2</td>
+    <td align="center">Cartoon Style Figure_2</td>
+  </tr>
+</table>
 
 
 ## Bad Results
 - black_and_white, child, house, moutain, texture, tree are bad results. Because they can't brings out the origine features (color, divisions) well or are close to the origine photo.
 
-![Realtime_Outside_Weather Tool Screenshot](black_and_white.jpg) ![Realtime_Outside_Weather Tool Screenshot](cartooned_black_and_white.png)
-[black_and_white] [Cartoon Style black_and_white]
+<table>
+  <tr>
+    <td><img src="black_and_white.jpg" width="300"></td>
+    <td><img src="cartooned_black_and_white.png" width="300"></td>
+  </tr>
+  <tr>
+    <td align="center">Black and White</td>
+    <td align="center">Cartoon Style Black and White</td>
+  </tr>
+  
+  <tr>
+    <td><img src="child.jpg" width="300"></td>
+    <td><img src="cartooned_child.png" width="300"></td>
+  </tr>
+  <tr>
+    <td align="center">Child</td>
+    <td align="center">Cartoon Style Child</td>
+  </tr>
 
-![Realtime_Outside_Weather Tool Screenshot](child.jpg) ![Realtime_Outside_Weather Tool Screenshot](cartooned_child.png)
-[child] [Cartoon Style child]
+  <tr>
+    <td><img src="house.jpg" width="300"></td>
+    <td><img src="cartooned_house.png" width="300"></td>
+  </tr>
+  <tr>
+    <td align="center">House</td>
+    <td align="center">Cartoon Style House</td>
+  </tr>
 
-![Realtime_Outside_Weather Tool Screenshot](house.jpg) ![Realtime_Outside_Weather Tool Screenshot](cartooned_house.png)
-[house] [Cartoon Style house]
+  <tr>
+    <td><img src="moutain.jpg" width="300"></td>
+    <td><img src="cartooned_moutain.png" width="300"></td>
+  </tr>
+  <tr>
+    <td align="center">Mountain</td>
+    <td align="center">Cartoon Style Mountain</td>
+  </tr>
 
-![Realtime_Outside_Weather Tool Screenshot](moutain.jpg) ![Realtime_Outside_Weather Tool Screenshot](cartooned_moutain.png)
-[moutain] [Cartoon Style moutain]
+  <tr>
+    <td><img src="tree.jpg" width="300"></td>
+    <td><img src="cartooned_tree.png" width="300"></td>
+  </tr>
+  <tr>
+    <td align="center">Tree</td>
+    <td align="center">Cartoon Style Tree</td>
+  </tr>
+</table>
 
-![Realtime_Outside_Weather Tool Screenshot](tree.jpg) ![Realtime_Outside_Weather Tool Screenshot](cartooned_tree.png)
-[tree] [Cartoon Style tree]
 
 ## My Opinion
 -  Actually the Good Results can't be called cartoon style. Exactly it is close to drawing or painting. It is accepted that the cartoon is a kind of drawings or paintings. Good Results can be called cartoon. Becausee Good Results brings out the origine features (color, divisions) well but Bad Results can't.
